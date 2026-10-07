@@ -338,13 +338,11 @@
 
   <p align="center" style="margin-top: 12px; margin-bottom: 4px;">
     <a href="https://github.com/AadeeKanchan">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=2000&color=00F0FF&background=0A0E1700&center=true&vCenter=true&width=780&height=40&lines=%3E_+[MAVLINK_BUS]+433MHz+Telemetry+Persistent+•+0+Dropped+Packets;%3E_+[EDGE_CUDA]+YOLOv8+Model+VRAM+Locked+•+Frame+Buffer+Flushed;root%40aadee%3A~%24+echo+%22Simulating+the+impossible+until+it+converges+into+reality.%22;%3E_+[STATUS]+Daemon+Listening+•+Standby+for+incoming+transmissions" alt="Mission De-Orbit Telemetry" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=2000&color=00F0FF&background=0A0E1700&center=true&vCenter=true&width=780&height=40&lines=%3E_+[MAVLINK_BUS]+433MHz+Telemetry+Persistent+•+0+Dropped+Packets;%3E_+[EDGE_CUDA]+YOLOv8+Model+VRAM+Locked+•+Frame+Buffer+Flushed;root%40aadee%3A~%24+echo+%22Simulating+the+impossible+until+it+converges+into+reality.%22;%3E_+[STATUS]+Daemon+Listening+•+Standby+for+incoming+transmissions"  />
     </a>
   </p>
 
-  <p align="center" style="font-family: monospace; color: #565f89; font-size: 12px; margin-top: 6px;">
-    <code>❯ ORCHESTRATOR: MAVLINK / PX4 SITL • HOST: LNCTE BHOPAL • STATUS: DAEMON ACTIVE</code>
-  </p>
+
 
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00f0ff,30,7aa2f7,70,1a1b26,100,050814&height=120&section=footer&animation=twinkling&stroke=00f0ff&strokeWidth=2" width="100%" alt="Cyber De-Orbit Footer" />
 </div>
