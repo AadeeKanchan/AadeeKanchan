@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,050814,25,0d1117,50,161b2e,75,1b2a4a,100,00f0ff&height=250&section=header&text=AADEE%20KANCHAN&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%3E_%20AUTONOMOUS%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%20COMPUTER%20VISION&descAlignY=58&descAlign=50&descSize=15&descColor=00f0ff&stroke=00f0ff&strokeWidth=2" width="100%" alt="Aadee Kanchan Cyber Deck Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,35:001F3F,70:00F0FF,100:050814&height=250&section=header&text=AADEE%20KANCHAN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%3E_%20AUTONOMOUS%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%20COMPUTER%20VISION&descAlignY=58&descSize=16&descColor=00F0FF" width="100%" alt="Aadee Kanchan Autonomous Systems Architect Header" />
 
   <a href="https://github.com/AadeeKanchan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1400&color=00F0FF&background=0A0E1700&center=true&vCenter=true&width=840&height=75&lines=%24+sys.init+--target%3D%22AUTONOMOUS_SWARM%22+--protocol%3D%22MAVLINK%22;%3E_+[OK]+PX4+Software-In-The-Loop+3D+Mesh+Synchronized;%3E_+[OK]+Real-Time+YOLOv8+Edge+Vision+Pipeline+Active+%40+60FPS;%3E_+[OK]+MERN+Full-Stack+Architectural+Core+Armed;%3E_+Founder+%26+Technical+Lead+%40+CODE.Ai+Community;%3E_+%22Engineering+intelligent+multi-agent+swarms+at+the+edge+of+silicon.%22" alt="Dev Console Telemetry" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=1200&color=00F0FF&background=0A0E1700&center=true&vCenter=true&width=860&height=48&lines=%24+sys.init+--target%3D%22AUTONOMOUS_SWARM%22+--protocol%3D%22MAVLINK%22;%3E_+[OK]+PX4+Software-In-The-Loop+3D+Mesh+Synchronized;%3E_+[OK]+Real-Time+YOLOv8+Edge+Vision+Pipeline+Active+%40+60FPS;%3E_+Full-Stack+MERN+%26+Embedded+IoT+Systems+Engineer;%3E_+Founder+%26+Technical+Lead+%40+CODE.Ai+Community;%3E_+%22Engineering+intelligent+multi-agent+swarms+at+the+edge+of+silicon.%22" alt="Dev Console Telemetry" />
   </a>
 
-  <p align="center">
+  <p align="center" style="margin-top: 10px; margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/ORBIT-BHOPAL%2C%20INDIA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF&labelColor=0A0E17&color=1A1B26" alt="Orbit Location" />
     <img src="https://img.shields.io/badge/STATUS-MISSION%20ACTIVE-0D1117?style=for-the-badge&logo=target&logoColor=00F0FF&labelColor=0A0E17&color=1A1B26" alt="Mission Status" />
     <img src="https://img.shields.io/badge/CLEARANCE-AGENTBLAZER%20L1-0D1117?style=for-the-badge&logo=salesforce&logoColor=00F0FF&labelColor=0A0E17&color=1A1B26" alt="Salesforce Agentblazer" />
@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00f0ff,25,7aa2f7,50,00f0ff,75,bb9af7,100,00f0ff&height=4&section=header" width="100%" alt="Cyber Telemetry Bus Divider" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050814,30:00f0ff,70:38bdf8,100:050814&height=3&section=header" width="100%" alt="Divider Laser Rail" />
   </p>
 
 </div>
@@ -333,14 +333,18 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00f0ff,25,7aa2f7,50,00f0ff,75,bb9af7,100,00f0ff&height=3&section=header" width="100%" alt="Footer Laser Divider" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050814,30:00f0ff,70:38bdf8,100:050814&height=3&section=header" width="100%" alt="Footer Laser Rail" />
   </p>
 
- 
+  <p align="center" style="margin-top: 12px; margin-bottom: 4px;">
+    <a href="https://github.com/AadeeKanchan">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=2000&color=00F0FF&background=0A0E1700&center=true&vCenter=true&width=780&height=40&lines=%3E_+[MAVLINK_BUS]+433MHz+Telemetry+Persistent+//+0+Dropped+Packets;%3E_+[EDGE_CUDA]+YOLOv8+Model+VRAM+Locked+//+Buffer+Flushed;root%40aadee%3A~%24+echo+%22Simulating+the+impossible+until+it+converges+into+reality.%22;%3E_+[STATUS]+Daemon+Listening+//+Standby+for+incoming+transmissions" alt="Mission De-Orbit Telemetry" />
+    </a>
+  </p>
 
+  <p align="center" style="font-family: monospace; color: #565f89; font-size: 12px; margin-top: 6px; margin-bottom: 12px;">
+    <code>❯ ORCHESTRATOR: MAVLINK / PX4 SITL • HOST: LNCTE BHOPAL • STATUS: DAEMON ACTIVE [EOF]</code>
+  </p>
 
-
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,00f0ff,30,7aa2f7,70,1a1b26,100,050814&height=120&section=footer&animation=twinkling&stroke=00f0ff&strokeWidth=2" width="100%" alt="Cyber De-Orbit Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,35:001F3F,70:00F0FF,100:050814&height=120&section=footer" width="100%" alt="Footer Wave De-Orbit" />
 </div>
-
-
