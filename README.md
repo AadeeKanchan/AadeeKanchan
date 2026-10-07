@@ -336,11 +336,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00f0ff,25,7aa2f7,50,00f0ff,75,bb9af7,100,00f0ff&height=3&section=header" width="100%" alt="Footer Laser Divider" />
   </p>
 
-  <p align="center" style="margin-top: 12px; margin-bottom: 4px;">
-    <a href="https://github.com/AadeeKanchan">
-     
-    </a>
-  </p>
+ 
 
 
 
