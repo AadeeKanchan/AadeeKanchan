@@ -59,75 +59,76 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none; padding-top: 10px;">
-      <a href="https://github.com/AadeeKanchan">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeeKanchan&layout=compact&theme=tokyonight&hide_border=false&border_color=00f0ff&border_radius=12&bg_color=0d1117&title_color=00f0ff&text_color=c0caf5" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <br />
 
-<h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=600&height=36&lines=Technical+Stack+//+Core+Capabilities" alt="Technical Stack // Core Capabilities" />
-</h2>
-
-### 01 // Core Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 02 // Frontend Architecture & Visual UX
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Apple_UI%2FUX_Design-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Design System" />
-</p>
-
-### 03 // Backend Infrastructure & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-### 04 // Artificial Intelligence & Computer Vision
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Ultralytics_YOLOv8-00F0FF?style=for-the-badge&logo=target&logoColor=000000" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow" />
-  <img src="https://img.shields.io/badge/Image_Segmentation-10B981?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Image Segmentation" />
-  <img src="https://img.shields.io/badge/Google_Colab_(GPU)-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab GPU" />
-</p>
-
-### 05 // Robotics, Autonomous Flight & IoT Sensors
-<p align="left">
-  <img src="https://img.shields.io/badge/Ursina_Engine-FF3366?style=for-the-badge&logo=python&logoColor=white" alt="Ursina Engine" />
-  <img src="https://img.shields.io/badge/Gazebo_Sim-F28500?style=for-the-badge&logo=robot&logoColor=white" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/PX4_Autopilot-107C41?style=for-the-badge&logo=drone&logoColor=white" alt="PX4 Autopilot" />
-  <img src="https://img.shields.io/badge/MAVLink_Protocol-008080?style=for-the-badge&logo=satellite&logoColor=white" alt="MAVLink" />
-  <img src="https://img.shields.io/badge/Skybrush_Swarm-00D2FF?style=for-the-badge&logo=drone&logoColor=black" alt="Skybrush" />
-  <img src="https://img.shields.io/badge/ESP32_IoT_Sensors-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 IoT" />
-</p>
-
-### 06 // DevOps, Toolchain & Environments
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
+<table width="100%" border="0" cellspacing="12" cellpadding="0" style="border: none;">
+  <tr>
+    <td width="42%" align="left" valign="top" style="border: none; padding-right: 8px;">
+      <h3 align="left" style="margin: 0 0 10px 0;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=360&height=28&lines=Most+Used+Languages+//+Telemetry" alt="Most Used Languages" />
+      </h3>
+      <a href="https://github.com/AadeeKanchan">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeeKanchan&layout=compact&theme=tokyonight&hide_border=false&border_color=00f0ff&border_radius=12&bg_color=0d1117&title_color=00f0ff&text_color=c0caf5" alt="Most Used Languages" />
+      </a>
+    </td>
+    <td width="58%" align="left" valign="top" style="border: none; padding-left: 8px;">
+      <h3 align="left" style="margin: 0 0 10px 0;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=450&height=28&lines=Technical+Stack+//+Core+Capabilities" alt="Technical Stack // Core Capabilities" />
+      </h3>
+      <div align="left" style="margin-bottom: 7px;">
+        <b><code>01 // Core Programming Languages</code></b><br />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </div>
+      <div align="left" style="margin-bottom: 7px;">
+        <b><code>02 // Frontend Architecture & Visual UX</code></b><br />
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Apple_UI%2FUX_Design-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple Design System" />
+      </div>
+      <div align="left" style="margin-bottom: 7px;">
+        <b><code>03 // Backend Infrastructure & Databases</code></b><br />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+      </div>
+      <div align="left" style="margin-bottom: 7px;">
+        <b><code>04 // Artificial Intelligence & Computer Vision</code></b><br />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Ultralytics_YOLOv8-00F0FF?style=flat-square&logo=target&logoColor=000000" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow" />
+        <img src="https://img.shields.io/badge/Image_Segmentation-10B981?style=flat-square&logo=scikit-learn&logoColor=white" alt="Image Segmentation" />
+        <img src="https://img.shields.io/badge/Google_Colab_(GPU)-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Colab GPU" />
+      </div>
+      <div align="left" style="margin-bottom: 7px;">
+        <b><code>05 // Robotics, Autonomous Flight & IoT Sensors</code></b><br />
+        <img src="https://img.shields.io/badge/Ursina_Engine-FF3366?style=flat-square&logo=python&logoColor=white" alt="Ursina Engine" />
+        <img src="https://img.shields.io/badge/Gazebo_Sim-F28500?style=flat-square&logo=robot&logoColor=white" alt="Gazebo" />
+        <img src="https://img.shields.io/badge/PX4_Autopilot-107C41?style=flat-square&logo=drone&logoColor=white" alt="PX4 Autopilot" />
+        <img src="https://img.shields.io/badge/MAVLink_Protocol-008080?style=flat-square&logo=satellite&logoColor=white" alt="MAVLink" />
+        <img src="https://img.shields.io/badge/Skybrush_Swarm-00D2FF?style=flat-square&logo=drone&logoColor=black" alt="Skybrush" />
+        <img src="https://img.shields.io/badge/ESP32_IoT_Sensors-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32 IoT" />
+      </div>
+      <div align="left" style="margin-bottom: 7px;">
+        <b><code>06 // DevOps, Toolchain & Environments</code></b><br />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 
