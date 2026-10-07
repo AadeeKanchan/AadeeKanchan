@@ -1,20 +1,11 @@
-<!-- ========================================================================= -->
-<!-- 🪐 AADEE KANCHAN // ZERO-GRAVITY AUTONOMOUS SYSTEMS & AI PROFILE README   -->
-<!-- 🚀 Copy and paste EVERYTHING in this file directly into your GitHub        -->
-<!--    special repository README.md (AadeeKanchan/README.md)                   -->
-<!-- ========================================================================= -->
-
 <div align="center">
 
-  <!-- 🌌 DYNAMIC ZERO-GRAVITY WAVING HERO BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,050814,25,0d1117,50,1a1b26,75,1b2a4a,100,00f0ff&height=280&section=header&text=AADEE%20KANCHAN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AUTONOMOUS%20SYSTEMS%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE%20%E2%80%A2%20COMPUTER%20VISION&descAlignY=58&descAlign=50&descSize=16&descColor=7aa2f7" width="100%" alt="Aadee Kanchan Header" />
 
-  <!-- ⚡ DYNAMIC ANIMATED TERMINAL TYPEWRITER -->
   <a href="https://github.com/AadeeKanchan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00F0FF&background=0A0E1700&center=true&vCenter=true&width=780&height=70&lines=%E2%9A%A1+CSE+(AI+%26+ML)+Undergrad+%40+LNCTE+Bhopal+[2024%E2%80%942028];%F0%9F%9B%B0%EF%B8%8F+Architecting+3D+UAV+Swarm+Simulations+%26+PX4+Autopilot+Telemetry;%F0%9F%91%81%EF%B8%8F+Deploying+Real-Time+YOLOv8+Edge+Computer+Vision+Pipelines;%F0%9F%92%BB+Full-Stack+MERN+%26+Embedded+IoT+Systems+Engineer;%F0%9F%9A%80+Founder+%26+Technical+Lead+%40+CODE.Ai+Community;%E2%98%84%EF%B8%8F+Pioneering+Zero-Gravity+Multi-Agent+Autonomous+Robotics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00F0FF&background=0A0E1700&center=true&vCenter=true&width=780&height=70&lines=%3E_+CSE+(AI+%26+ML)+Undergrad+%40+LNCTE+Bhopal+[2024%E2%80%942028];%3E_+Architecting+3D+UAV+Swarm+Simulations+%26+PX4+Autopilot;%3E_+Deploying+Real-Time+YOLOv8+Edge+Computer+Vision+Pipelines;%3E_+Full-Stack+MERN+%26+Embedded+IoT+Systems+Engineer;%3E_+Founder+%26+Technical+Lead+%40+CODE.Ai+Community;%3E_+Pioneering+Autonomous+Robotics+%26+Multi-Agent+Systems" alt="Typing SVG" />
   </a>
 
-  <!-- 🛰️ REAL-TIME TELEMETRY STATUS HUD -->
   <p align="center">
     <img src="https://img.shields.io/badge/ORBIT-BHOPAL%2C%20INDIA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF&labelColor=0A0E17&color=1A1B26" alt="Orbit Location" />
     <img src="https://img.shields.io/badge/STATUS-MISSION%20ACTIVE-0D1117?style=for-the-badge&logo=target&logoColor=00F0FF&labelColor=0A0E17&color=1A1B26" alt="Mission Status" />
@@ -22,7 +13,6 @@
     <img src="https://komarev.com/ghpvc/?username=AadeeKanchan&color=00f0ff&style=for-the-badge&label=ORBITAL+VISITORS" alt="Profile Views" />
   </p>
 
-  <!-- 🕊️ GRACEFUL SOARING AVIAN TRANSIT DIVIDER -->
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00f0ff,30,7aa2f7,70,bb9af7,100,00f0ff&height=3&section=header" width="100%" alt="Divider" />
   </p>
@@ -31,11 +21,9 @@
 
 <br />
 
-<!-- ========================================================================= -->
-<!-- 📡 FLIGHT LOG & SYSTEM COCKPIT SPECIFICATION (LEFT-ALIGNED READABILITY)    -->
-<!-- ========================================================================= -->
-
-## 🛰️ Flight Log // Operator Specification
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=600&height=36&lines=Flight+Log+//+Operator+Specification" alt="Flight Log // Operator Specification" />
+</h2>
 
 ```yaml
 ╔═══════════════════════════════════════════════════════════════════════════════════════════╗
@@ -54,11 +42,9 @@
 
 <br />
 
-<!-- ========================================================================= -->
-<!-- 📊 LIVE ORBITAL TELEMETRY & METRICS                                       -->
-<!-- ========================================================================= -->
-
-## 📊 Live Orbital Telemetry // GitHub Metrics
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=600&height=36&lines=Live+Orbital+Telemetry+//+GitHub+Metrics" alt="Live Orbital Telemetry // GitHub Metrics" />
+</h2>
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0" style="border: none;">
   <tr>
@@ -84,13 +70,11 @@
 
 <br />
 
-<!-- ========================================================================= -->
-<!-- ⚡ WEAPONS OF CHOICE // TECH STACK ARMORY (HIGH-READABILITY LEFT ALIGNED)   -->
-<!-- ========================================================================= -->
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=600&height=36&lines=Technical+Stack+//+Core+Capabilities" alt="Technical Stack // Core Capabilities" />
+</h2>
 
-## ⚡ Weapons of Choice // Technical Stack Armory
-
-### 💻 `01 // Core Programming Languages`
+### 01 // Core Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -100,7 +84,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🎨 `02 // Frontend Architecture & Visual UX`
+### 02 // Frontend Architecture & Visual UX
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -108,7 +92,7 @@
   <img src="https://img.shields.io/badge/Apple_UI%2FUX_Design-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Design System" />
 </p>
 
-### ⚙️ `03 // Backend Infrastructure & Databases`
+### 03 // Backend Infrastructure & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -117,7 +101,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-### 👁️ `04 // Artificial Intelligence & Computer Vision`
+### 04 // Artificial Intelligence & Computer Vision
 <p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Ultralytics_YOLOv8-00F0FF?style=for-the-badge&logo=target&logoColor=000000" alt="YOLOv8" />
@@ -126,7 +110,7 @@
   <img src="https://img.shields.io/badge/Google_Colab_(GPU)-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab GPU" />
 </p>
 
-### 🛸 `05 // Robotics, Autonomous Flight & IoT Sensors`
+### 05 // Robotics, Autonomous Flight & IoT Sensors
 <p align="left">
   <img src="https://img.shields.io/badge/Ursina_Engine-FF3366?style=for-the-badge&logo=python&logoColor=white" alt="Ursina Engine" />
   <img src="https://img.shields.io/badge/Gazebo_Sim-F28500?style=for-the-badge&logo=robot&logoColor=white" alt="Gazebo" />
@@ -136,7 +120,7 @@
   <img src="https://img.shields.io/badge/ESP32_IoT_Sensors-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 IoT" />
 </p>
 
-### 🛠️ `06 // DevOps, Toolchain & Environments`
+### 06 // DevOps, Toolchain & Environments
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -147,18 +131,15 @@
 
 <br />
 
-<!-- ========================================================================= -->
-<!-- 🚀 FLAGSHIP MISSIONS // FEATURED PROJECT DOSSIERS                         -->
-<!-- ========================================================================= -->
-
-## 🚀 Flagship Missions // Autonomous Project Dossiers
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=600&height=36&lines=Flagship+Missions+//+Project+Dossiers" alt="Flagship Missions // Project Dossiers" />
+</h2>
 
 <table width="100%" border="0" cellspacing="12" cellpadding="0" style="border: none;">
   <tr>
-    <!-- PROJECT 1: UAV SWARM -->
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 20px; border-radius: 12px; vertical-align: top;">
       <div align="left">
-        <span style="color: #00f0ff; font-weight: bold; font-size: 16px;">🛸 MISSION 01 // UAV SWARM SIMULATION SYSTEM</span>
+        <span style="color: #00f0ff; font-weight: bold; font-size: 16px;">MISSION 01 // UAV SWARM SIMULATION SYSTEM</span>
         <br />
         <span style="color: #7aa2f7; font-size: 13px;"><i>Autonomous 3D Multi-Agent Flight & Control Framework</i></span>
         <p style="color: #c0caf5; font-size: 13px; line-height: 1.6; margin-top: 10px;">
@@ -175,10 +156,9 @@
         </p>
       </div>
     </td>
-    <!-- PROJECT 2: REAL-TIME POTHOLE DETECTION -->
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 20px; border-radius: 12px; vertical-align: top;">
       <div align="left">
-        <span style="color: #00f0ff; font-weight: bold; font-size: 16px;">⚡ MISSION 02 // REAL-TIME POTHOLE DETECTION PIPELINE</span>
+        <span style="color: #00f0ff; font-weight: bold; font-size: 16px;">MISSION 02 // REAL-TIME POTHOLE DETECTION PIPELINE</span>
         <br />
         <span style="color: #7aa2f7; font-size: 13px;"><i>Sub-Second Neural Edge Road Hazard Inspection Pipeline</i></span>
         <p style="color: #c0caf5; font-size: 13px; line-height: 1.6; margin-top: 10px;">
@@ -197,10 +177,9 @@
     </td>
   </tr>
   <tr>
-    <!-- PROJECT 3: ECOTRACK -->
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 20px; border-radius: 12px; vertical-align: top;">
       <div align="left">
-        <span style="color: #00f0ff; font-weight: bold; font-size: 16px;">♻️ MISSION 03 // ECOTRACK AI & IOT WASTE MANAGEMENT</span>
+        <span style="color: #00f0ff; font-weight: bold; font-size: 16px;">MISSION 03 // ECOTRACK AI & IOT WASTE MANAGEMENT</span>
         <br />
         <span style="color: #7aa2f7; font-size: 13px;"><i>Smart Campus Waste Monitoring & Automated Classification</i></span>
         <p style="color: #c0caf5; font-size: 13px; line-height: 1.6; margin-top: 10px;">
@@ -217,10 +196,9 @@
         </p>
       </div>
     </td>
-    <!-- PROJECT 4: TRACKMY75 -->
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 20px; border-radius: 12px; vertical-align: top;">
       <div align="left">
-        <span style="color: #00f0ff; font-weight: bold; font-size: 16px;">🎯 MISSION 04 // TRACKMY75 ACADEMIC CALCULATOR</span>
+        <span style="color: #00f0ff; font-weight: bold; font-size: 16px;">MISSION 04 // TRACKMY75 ACADEMIC CALCULATOR</span>
         <br />
         <span style="color: #7aa2f7; font-size: 13px;"><i>Precision UI-Focused Attendance Optimization Engine</i></span>
         <p style="color: #c0caf5; font-size: 13px; line-height: 1.6; margin-top: 10px;">
@@ -242,23 +220,21 @@
 
 <br />
 
-<!-- ========================================================================= -->
-<!-- 🏆 LEADERSHIP, ACCREDITATIONS & HONORS                                    -->
-<!-- ========================================================================= -->
-
-## 🏆 Leadership, Accreditations & Honors
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=600&height=36&lines=Leadership+%26+Accreditations" alt="Leadership & Accreditations" />
+</h2>
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0" style="border: none;">
   <tr>
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 18px; border-radius: 12px; vertical-align: top;">
-      <h4 style="margin: 0; color: #00f0ff;">🚀 Founder & Technical Lead</h4>
+      <h4 style="margin: 0; color: #00f0ff;">Founder & Technical Lead</h4>
       <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>CODE.Ai</b> • <i>Student Technology & AI Community</i></p>
       <p style="color: #c0caf5; font-size: 13px; line-height: 1.5; margin: 0;">
         Spearheading peer engineering initiatives, hands-on computer vision workshops, and AI hackathon squads across LNCTE campus. Fostering practical AI deployment mindsets.
       </p>
     </td>
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 18px; border-radius: 12px; vertical-align: top;">
-      <h4 style="margin: 0; color: #00f0ff;">⚡ Agentblazer Champion Level 1</h4>
+      <h4 style="margin: 0; color: #00f0ff;">Agentblazer Champion Level 1</h4>
       <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>Salesforce Trailhead</b> • <i>Autonomous AI Ecosystem</i></p>
       <p style="color: #c0caf5; font-size: 13px; line-height: 1.5; margin: 0;">
         Officially certified in generative AI agent architectures, autonomous prompt orchestration, trust layer compliance, and multi-agent enterprise automation workflows.
@@ -267,14 +243,14 @@
   </tr>
   <tr>
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 18px; border-radius: 12px; vertical-align: top;">
-      <h4 style="margin: 0; color: #00f0ff;">🏛️ Student Trainee</h4>
+      <h4 style="margin: 0; color: #00f0ff;">Student Trainee</h4>
       <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>EPAM Systems Center of Excellence</b></p>
       <p style="color: #c0caf5; font-size: 13px; line-height: 1.5; margin: 0;">
         Undergoing rigorous industry software engineering training focusing on Advanced Data Structures & Algorithms, Clean Code Architecture, and enterprise software engineering rigor.
       </p>
     </td>
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 18px; border-radius: 12px; vertical-align: top;">
-      <h4 style="margin: 0; color: #00f0ff;">📢 Ex-Social Media Manager</h4>
+      <h4 style="margin: 0; color: #00f0ff;">Ex-Social Media Manager</h4>
       <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>Enigma</b></p>
       <p style="color: #c0caf5; font-size: 13px; line-height: 1.5; margin: 0;">
         Drove digital strategy, tech community outreach campaigns, visual communications, and event marketing for technical initiatives and student student gatherings.
@@ -285,14 +261,12 @@
 
 <br />
 
-<!-- ========================================================================= -->
-<!-- 🔍 INTERACTIVE SYSTEM DIAGNOSTICS (COLLAPSIBLE HUD)                       -->
-<!-- ========================================================================= -->
-
-## 🔍 System Telemetry // Technical Deep Dives
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=600&height=36&lines=Architecture+Notes+//+Technical+Deep+Dives" alt="Architecture Notes // Technical Deep Dives" />
+</h2>
 
 <details>
-  <summary><b>🛸 [TELEMETRY] Autonomous UAV Swarm Coordination & MAVLink Protocols</b> <i>(Click to Expand)</i></summary>
+  <summary><b>[TELEMETRY] Autonomous UAV Swarm Coordination & MAVLink Protocols</b> <i>(Click to Expand)</i></summary>
   <br />
   <blockquote>
     <p><b>Swarm Architecture Overview:</b></p>
@@ -306,7 +280,7 @@
 </details>
 
 <details>
-  <summary><b>🧠 [NEURAL PIPELINE] High-Speed Edge Vision & Custom Polygon Segmentation</b> <i>(Click to Expand)</i></summary>
+  <summary><b>[NEURAL PIPELINE] High-Speed Edge Vision & Custom Polygon Segmentation</b> <i>(Click to Expand)</i></summary>
   <br />
   <blockquote>
     <p><b>Computer Vision Specs:</b></p>
@@ -320,7 +294,7 @@
 </details>
 
 <details>
-  <summary><b>🌐 [COMMUNITY] CODE.Ai Community Charter & Directives</b> <i>(Click to Expand)</i></summary>
+  <summary><b>[COMMUNITY] CODE.Ai Community Charter & Directives</b> <i>(Click to Expand)</i></summary>
   <br />
   <blockquote>
     <p><b>Mission Statement:</b></p>
@@ -332,11 +306,9 @@
 
 <br />
 
-<!-- ========================================================================= -->
-<!-- 📡 COMMUNICATIONS ARRAY & QUANTUM TRANSMISSIONS                           -->
-<!-- ========================================================================= -->
-
-## 📡 Communications Array // Quantum Transmissions
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=00F0FF&background=0A0E1700&vCenter=true&width=600&height=36&lines=Communications+//+Transmissions" alt="Communications // Transmissions" />
+</h2>
 
 <p align="left" style="color: #c0caf5; font-size: 15px;">
   Open for collaborations on <b>Autonomous UAV Systems</b>, <b>Computer Vision Research</b>, and <b>High-Impact AI Products</b>.
@@ -358,15 +330,11 @@
 
 <br />
 
-<!-- ========================================================================= -->
-<!-- 🪐 OUTRO CAPSULE & TERMINAL SIGN-OFF                                       -->
-<!-- ========================================================================= -->
-
 <div align="center">
   <p style="font-family: monospace; color: #7aa2f7; font-size: 14px;">
     <code>❯ "Simulating the impossible until it converges into deterministic reality."</code>
   </p>
 
-  <!-- DYNAMIC ZERO-GRAVITY WAVING FOOTER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f0ff,30,7aa2f7,70,1a1b26,100,050814&height=140&section=footer" width="100%" alt="Footer Wave" />
 </div>
+
