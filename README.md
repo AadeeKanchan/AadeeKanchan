@@ -228,33 +228,33 @@
 <table width="100%" border="0" cellspacing="10" cellpadding="0" style="border: none;">
   <tr>
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 18px; border-radius: 12px; vertical-align: top;">
-      <h4 style="margin: 0; color: #00f0ff;">Founder & Technical Lead</h4>
-      <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>CODE.Ai</b> • <i>Student Technology & AI Community</i></p>
+      <h4 style="margin: 0; color: #00f0ff;">Founder & Technical Lead 🧭</h4>
+      <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>CODE.Ai</b> 🧬 • <i>Student Technology & AI Community</i></p>
       <p style="color: #c0caf5; font-size: 13px; line-height: 1.5; margin: 0;">
-        Spearheading peer engineering initiatives, hands-on computer vision workshops, and AI hackathon squads across LNCTE campus. Fostering practical AI deployment mindsets.
+        Spearheading peer engineering initiatives, hands-on computer vision workshops 👁️‍🗨️, and AI hackathon squads across LNCTE campus. Fostering practical AI deployment mindsets.
       </p>
     </td>
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 18px; border-radius: 12px; vertical-align: top;">
-      <h4 style="margin: 0; color: #00f0ff;">Agentblazer Champion Level 1</h4>
-      <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>Salesforce Trailhead</b> • <i>Autonomous AI Ecosystem</i></p>
+      <h4 style="margin: 0; color: #00f0ff;">Agentblazer Champion Level 1 ⚜️</h4>
+      <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>Salesforce Trailhead</b> 🪐 • <i>Autonomous AI Ecosystem</i></p>
       <p style="color: #c0caf5; font-size: 13px; line-height: 1.5; margin: 0;">
-        Officially certified in generative AI agent architectures, autonomous prompt orchestration, trust layer compliance, and multi-agent enterprise automation workflows.
+        Officially certified in generative AI agent architectures 🔮, autonomous prompt orchestration, trust layer compliance 🛡️, and multi-agent enterprise automation workflows.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 18px; border-radius: 12px; vertical-align: top;">
-      <h4 style="margin: 0; color: #00f0ff;">Student Trainee</h4>
-      <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>EPAM Systems Center of Excellence</b></p>
+      <h4 style="margin: 0; color: #00f0ff;">Student Trainee 🏛️</h4>
+      <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>EPAM Systems Center of Excellence</b> 📐</p>
       <p style="color: #c0caf5; font-size: 13px; line-height: 1.5; margin: 0;">
-        Undergoing rigorous industry software engineering training focusing on Advanced Data Structures & Algorithms, Clean Code Architecture, and enterprise software engineering rigor.
+        Undergoing rigorous industry software engineering training focusing on Advanced Data Structures & Algorithms 🧮, Clean Code Architecture, and enterprise software engineering rigor ⚙️.
       </p>
     </td>
     <td width="50%" style="border: 1px solid #1f293d; background: #0d1117; padding: 18px; border-radius: 12px; vertical-align: top;">
-      <h4 style="margin: 0; color: #00f0ff;">Ex-Social Media Manager</h4>
-      <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>Enigma</b></p>
+      <h4 style="margin: 0; color: #00f0ff;">Ex-Social Media Manager 📡</h4>
+      <p style="color: #7aa2f7; margin: 4px 0 8px 0; font-size: 13px;"><b>Enigma</b> 🧿 • <i>Technical Communications</i></p>
       <p style="color: #c0caf5; font-size: 13px; line-height: 1.5; margin: 0;">
-        Drove digital strategy, tech community outreach campaigns, visual communications, and event marketing for technical initiatives and student student gatherings.
+        Drove digital strategy, tech community outreach campaigns 🛰️, visual communications, and event marketing for technical initiatives and student gatherings.
       </p>
     </td>
   </tr>
